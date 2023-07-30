@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>PTModelSprite_ID6876</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0, 0}, {1300, 775}}</string>
+                <key>offset</key>
+                <string>{0, -0}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{0, 0}, {1300, 775}}</string>
+                <key>sourceSize</key>
+                <string>{1300, 775}</string>
+            </dict>
+            <key>PTModelSprite_ID7489</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1304, 0}, {428, 612}}</string>
+                <key>offset</key>
+                <string>{-18, 3}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{62, 45}, {428, 612}}</string>
+                <key>sourceSize</key>
+                <string>{587, 707}</string>
+            </dict>
+            <key>PTModelSprite_ID8580</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0, 779}, {800, 411}}</string>
+                <key>offset</key>
+                <string>{0, -0}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{0, 0}, {800, 411}}</string>
+                <key>sourceSize</key>
+                <string>{800, 411}</string>
+            </dict>
+            <key>PTModelSprite_ID8575</key>
+            <dict>
+                <key>frame</key>
+                <string>{{804, 779}, {500, 331}}</string>
+                <key>offset</key>
+                <string>{0, -0}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{0, 0}, {500, 331}}</string>
+                <key>sourceSize</key>
+                <string>{500, 331}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <string>2</string>
+            <key>realTextureFileName</key>
+            <string>atlas_ID3389.png</string>
+            <key>size</key>
+            <string>{2048, 2048}</string>
+            <key>smartupdate</key>
+            <string>$Potion:Smartupdate:$</string>
+            <key>textureFileName</key>
+            <string>atlas_ID3389.png</string>
+        </dict>
+    </dict>
+</plist>
